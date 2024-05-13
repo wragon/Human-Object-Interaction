@@ -1,3 +1,3 @@
 # Human-Object Interaction(HOI)
 
-### Yolo V7 & Openpose
+### YoloV7 & OpenPose
